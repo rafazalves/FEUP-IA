@@ -1,1 +1,1 @@
-# FEUP-IA
+Project of Artificial Intelligence
